@@ -1,10 +1,11 @@
 <p align="center">
   <a href="https://github.com/LordNayan">
-    <img src="https://github.com/LordNayan/LordNayan/assets/51285263/dd2a8f84-11f6-434f-b5c7-dd2644a52222" alt="Nayan Lakhwani" /></a>
+    <img src="https://github.com/LordNayan/LordNayan/assets/51285263/7cafae00-5aac-4376-8e7a-8bbfcd6e8037" alt="Nayan Lakhwani" /></a>
 </p>
 
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img height=80px src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F71D68&center=true&vCenter=true&random=false&width=435&lines=+5%2B+years+of+coding+experience;+Experienced+Fullstack+Developer;+Always+learning+new+things;Cloud+enthusiast+and+CNCF+speaker;Open+source+contributor" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F75D7E&center=true&random=true&width=435&lines=5%2B+years+of+coding+experience;Experienced+Fullstack+Developer;Always+learning+new+things;Cloud+enthusiast+and+CNCF+speaker;Open+source+contributor" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
