@@ -24,7 +24,7 @@ I am a versatilist who loves open source and easily adapts to different hats (Fu
 
 ### 🧐 More About Me:
 
-- &nbsp; I’m currently working on a open-source dev-tool [**sparrow-app**](https://github.com/sparrowapp-dev/sparrow-app) and an AI-based FastAPI fintech project;
+- &nbsp; I’m currently working on a open-source dev-tool [**Sparrow**](https://github.com/sparrowapp-dev/sparrow-app) and an AI-based FastAPI fintech project;
 - &nbsp; I'm a public speaker at [Cloud Native Indore](https://community.cncf.io/cloud-native-indore/);
 - &nbsp; I’m currently learning prompt engineering, product development and Python; 
 - &nbsp; Ask me about anything tech-related, I am happy to help;
