@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F75D7E&center=true&random=true&width=435&lines=5%2B+years+of+coding+experience;Experienced+Fullstack+Developer;Always+learning+new+things;Cloud+enthusiast+and+CNCF+speaker;Open+source+contributor" alt="Typing SVG" />
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F75D7E&center=true&random=true&width=435&lines=5%2B+years+of+coding+experience;Experienced+Fullstack+Developer;Always+learning+new+things;Cloud+enthusiast+and+CNCF+speaker;Open+source+contributor" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
