@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img height=65px src="https://github.com/LordNayan/LordNayan/assets/51285263/dd2a8f84-11f6-434f-b5c7-dd2644a52222" alt="Nayan Lakhwani" /></a>
+  <a href="https://github.com/LordNayan">
+    <img src="https://github.com/LordNayan/LordNayan/assets/51285263/dd2a8f84-11f6-434f-b5c7-dd2644a52222" alt="Nayan Lakhwani" /></a>
 </p>
 
 <p align="center">
@@ -18,28 +18,28 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-I am a versatilist who loves open source and easily adapt to different hats (Full Stack Web Developer 🌐, Tech Product Lead 👨‍💻, System architect 👷🏻‍♂️) depending on what the project requires. I love exploring new tech stack and leveraging them to build cool stuffs. 
+I am a versatilist who loves open source and easily adapts to different hats (Full Stack Web Developer 🌐, Tech Product Lead 👨‍💻, System architect 👷🏻‍♂️) depending on what the project requires. I love exploring new tech stacks and leveraging them to build cool stuff. 
 
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400px"/>
 
 ### 🧐 More About Me:
 
-- &nbsp; I’m currently working on a open-source dev-tool [**sparrow-app**](https://github.com/rahul-jha98/sheets-database) and a AI based FastAPI fintech project;
+- &nbsp; I’m currently working on a open-source dev-tool [**sparrow-app**](https://github.com/rahul-jha98/sheets-database) and a AI-based FastAPI fintech project;
 - &nbsp; I'm a public speaker at [Cloud Native Indore](https://community.cncf.io/cloud-native-indore/);
-- &nbsp; I’m currently learning prompt engineering, product development and python; 
-- &nbsp; Ask me about anything tech related, I am happy to help;
+- &nbsp; I’m currently learning prompt engineering, product development and Python; 
+- &nbsp; Ask me about anything tech-related, I am happy to help;
 - &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/nayan-lakhwani/);
 - &nbsp; Checkout my [resume](https://drive.google.com/file/d/1lWO1Q5RG7L_T5eXL9Fy0D_ipdoGGjP3P/view?usp=sharing);
 - &nbsp; When I am free, I play Fifa ⚽ and listen to music 🎶;
 
 <br>
 
+
+
 ### 🔨 Languages and Tools:
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 
 
-<a href="https://www.rust-lang.org" target="_blank"><img align="left" alt="Rust" height="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"></a>
+<a href="https://www.rust-lang.org" target="_blank"><img align="left" alt="Rust" height="42px" src="https://raw.githubusercontent.com/lecepin/rust-logo/main/images/1660286946670.svg"></a>
 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
@@ -56,7 +56,7 @@ I am a versatilist who loves open source and easily adapt to different hats (Ful
 <a href="https://azure.microsoft.com/" target="_blank"><img align="left" alt="Azure" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"></a>
 
 
-<a href="https://aws.amazon.com" target="_blank"><img align="left" alt="AWS" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></a>
+<a href="https://aws.amazon.com" target="_blank"><img align="left" alt="AWS" height="42px" src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"></a>
 
 <a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></a>
 
