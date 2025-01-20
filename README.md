@@ -29,7 +29,7 @@ I am a versatilist who loves open source and easily adapts to different hats (Fu
 - &nbsp; I’m currently learning prompt engineering, product development and Python; 
 - &nbsp; Ask me about anything tech-related, I am happy to help;
 - &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/nayan-lakhwani/);
-- &nbsp; Checkout my [resume](https://drive.google.com/file/d/1lWO1Q5RG7L_T5eXL9Fy0D_ipdoGGjP3P/view?usp=sharing);
+- &nbsp; Checkout my [resume](https://drive.google.com/file/d/1RkJXetQdxocPVcDT1dmKxCqK7ZT0thPM/view?usp=sharing);
 - &nbsp; When I am free, I play Fifa ⚽ and listen to music 🎶;
 
 <br>
