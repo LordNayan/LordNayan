@@ -24,7 +24,7 @@ I am a versatilist who loves open source and easily adapts to different hats (Fu
 
 ### 🧐 More About Me:
 
-- &nbsp; I’m currently working on a open-source dev-tool [**Sparrow**](https://github.com/sparrowapp-dev/sparrow-app) and an AI-based FastAPI fintech project;
+- &nbsp; I’m currently working on a open-source dev-tool [**Sparrow**](https://github.com/sparrowapp-dev/sparrow-app) and an AI-based RoR fintech project;
 - &nbsp; I'm a public speaker at [Cloud Native Indore](https://community.cncf.io/cloud-native-indore/);
 - &nbsp; I’m currently learning prompt engineering, product development and Python; 
 - &nbsp; Ask me about anything tech-related, I am happy to help;
@@ -37,6 +37,10 @@ I am a versatilist who loves open source and easily adapts to different hats (Fu
 
 
 ### 🔨 Languages and Tools:
+
+<a href="https://rubyonrails.org" target="_blank"><img align="left" alt="Ruby on Rails" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg"></a>
+<a href="https://www.ruby-lang.org" target="_blank"><img align="left" alt="Ruby" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"></a>
+
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 
 
